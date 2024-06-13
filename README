@@ -1,0 +1,19 @@
+# Paragraph Justification
+
+This Project provides a Python program to justify text both left and right. It ensures no words are broken, fitting text within a specified page width.
+
+## Files
+
+- justify_text.py: Main script to justify text.
+- test_justify_text.py: Unit tests for the text justification function.
+- README: Project documentation.
+
+## Usage
+
+1. Execute the Python Program:
+
+   python justify_paragraph_text.py
+
+2. Test the python method "justify_paragraph" defined in "justify_text.py", using the python unit tests methods in "test_justify_text.py" file
+
+   python -m unittest test_justify_text.py
